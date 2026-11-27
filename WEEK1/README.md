@@ -20,7 +20,7 @@ Resource: [StatQuest](https://www.youtube.com/@statquest/playlists)
 
 ## 5. Gradient Descent and Linear Regression
 Resource: [CS229](https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2&pp=iAQB)
-Lecture nos. mentioned as above
+Lecture nos. as mentioned above
 ## Practice
 
 Implement the following using Python and NumPy:
