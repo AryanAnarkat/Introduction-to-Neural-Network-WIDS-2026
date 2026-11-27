@@ -9,7 +9,7 @@ Before building neural networks, we first need to understand how machine learnin
 ## 1. Introduction to Machine Learning
 
 Resource: [CS229](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=1&pp=iAQB)
-
+Lecture nos. - 1, 2, 3, 10 and 11
 ## 2. Vectors and Matrices
 Resource: [3Blue1Brown — Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
