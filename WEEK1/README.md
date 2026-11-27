@@ -15,14 +15,11 @@ Resource: [3Blue1Brown — Essence of Linear Algebra](https://www.youtube.com/pl
 
 Practice using NumPy.
 
-## 3. Linear Regression
-Resource: [StatQuest](https://www.youtube.com/@statquest/playlists)
-
 ## 4. Loss Functions
 Resource: [StatQuest](https://www.youtube.com/@statquest/playlists)
 
-## 5. Gradient Descent
-Resource: [StatQuest](https://www.youtube.com/@statquest/playlists)
+## 5. Gradient Descent and Linear Regression
+Resource: [CS229](https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=2&pp=iAQB)
 
 ## Practice
 
